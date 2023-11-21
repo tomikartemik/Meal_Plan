@@ -1,0 +1,99 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
+    id 'com.google.dagger.hilt.android'
+}
+
+android {
+    namespace 'com.recepies.foodrecipesq'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.recepies.foodrecipesq"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+         /*   buildConfigField 'String', 'RECIPE_BASE_URL', recipeReleaseBaseUrl
+            buildConfigField 'String', 'RECIPE_KEY', recipeReleaseKey*/
+        }
+
+        debug{
+            minifyEnabled false
+           /* buildConfigField "String", "RECIPE_BASE_URL", recipeDebugBaseUrl
+            buildConfigField "String", "RECIPE_KEY", recipeDebugKey*/
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    dataBinding {
+        enabled = true
+    }
+    sourceSets {
+        main {
+            resources {
+                srcDirs 'src/main/resources'
+            }
+        }
+    }
+}
+
+dependencies {
+
+    implementation Dependencies.INSTANCE.coreKtx_dep
+    implementation Dependencies.INSTANCE.appCompate_dep
+    implementation Dependencies.INSTANCE.material_dep
+    implementation Dependencies.INSTANCE.constraint_layout_dep
+
+    // Kotlin
+    implementation Dependencies.INSTANCE.navigation_fragment_ktx_dep
+    implementation  Dependencies.INSTANCE.navigation_ui_ktx_dep
+    implementation Dependencies.INSTANCE.dagger_hilt_dep
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.10.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    kapt Dependencies.INSTANCE.dagger_hilt_kapt
+
+    //Gson
+    implementation Dependencies.INSTANCE.gson_dep
+
+    implementation Dependencies.INSTANCE.datastore_preference_dep
+    implementation Dependencies.INSTANCE.viewpager2_dep
+
+    implementation("com.appsflyer:af-android-sdk:6.11.0")
+    implementation("com.android.installreferrer:installreferrer:2.2")
+    implementation("com.google.android.gms:play-services-base:18.2.0")
+    implementation("com.google.android.gms:play-services-auth-base:18.0.9")
+    implementation("com.google.android.gms:play-services-ads-identifier:18.0.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4")
+    implementation("com.squareup.retrofit2:converter-gson:2.5.0")
+    implementation("com.squareup.okhttp3:okhttp:4.10.0")
+    implementation("com.google.code.gson:gson:2.8.9")
+    implementation("commons-codec:commons-codec:1.11")
+    implementation("androidx.datastore:datastore-preferences:1.0.0-alpha01")
+    implementation("com.onesignal:OneSignal:[4.0.0, 4.99.99]")
+
+    //test lib
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    //modules
+    api project(path:':network')
+    api project(path:':recipecore')
+    api project(path:':dbmodule')
+
+}

@@ -1,0 +1,1226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [:dbmodule] /Users/tomikartemik/Downloads/mealplan-main/dbmodule/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:network] /Users/tomikartemik/Downloads/mealplan-main/network/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:recipecore] /Users/tomikartemik/Downloads/mealplan-main/recipecore/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/5d92f343386da95fac5d224dd2d8feaa/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/5425796a5b0ea5ba6616c5c67d5367c1/transformed/databinding-ktx-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/bd9e026a769db00fb3d5688b1e74c4c0/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.room:room-ktx:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/52314ba136dbd0c4af2a42746db047b9/transformed/room-ktx-2.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/84de0eb97727ccfc5b6d5df690864e3d/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/111822b40a6717082f5ac5f38dc2d4d6/transformed/datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/tomikartemik/.gradle/caches/transforms-3/d176122d41dfc90a9d6665e60cb7864d/transformed/hilt-android-2.44/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/2513095ea0a0af56904edab8da8b4bf9/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/7bfd462fb57d6c447908db4d85c2dc27/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.10.0] /Users/tomikartemik/.gradle/caches/transforms-3/05e0befc031c741a67fc02e1ae47eb89/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/tomikartemik/.gradle/caches/transforms-3/fb9e5eb5f41590ee20f7a9891e479d67/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:2:1-136:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/833461764292a12275a52c8def350baf/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/7b73268f11820202dcf96467dbf5b357/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/929ce2f88a4625959a92c4678b37165f/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.9] /Users/tomikartemik/.gradle/caches/transforms-3/5e645e25e91961825bc1e82e6c2e3059/transformed/play-services-auth-base-18.0.9/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/4b00d1defba162d75374781e76b635f3/transformed/glide-4.15.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/tomikartemik/.gradle/caches/transforms-3/f9d94739c057f0d30e9376305334b6cc/transformed/play-services-ads-identifier-18.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/8f15f2dee4c702a5a083755bdefab108/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/81c0c7ce6e333621cc5e9fbc58944ed2/transformed/firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tomikartemik/.gradle/caches/transforms-3/aadc225952687a8e6932b8cd1dce7cd3/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e483af8311042980df0a3696f6a80ef1/transformed/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/fdbd14a5e25725bb768533e048b131d0/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c0ee932ff7fd9a6b908ace3e287033b3/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/ef299b6761756db3687640890fff4b87/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/283f2e14dc56670647a4f8a1e130fc8f/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/tomikartemik/.gradle/caches/transforms-3/17555751c8b71d52b70c729366b2b521/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/tomikartemik/.gradle/caches/transforms-3/b4ddcdbe76ca15c5ede95a87c81e9a42/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/551837a5bd5a04f9e7d40ea064118618/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/02109bfd75bd818da2cfac1c29c15ac7/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/tomikartemik/.gradle/caches/transforms-3/e8108b9dd834bbbc29372c9c0483d557/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/tomikartemik/.gradle/caches/transforms-3/128a0c36b5eb3f8ee87cf3c6dee4a958/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/203cbdbca690f47a812e997c0f8b7f7e/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/ebbe3e9864f086431689017b0db3105c/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd9bbfbbedcd849a3b0b5f6fadfb67ea/transformed/core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/7d590ed60c9bec2aa12c6af1738e8879/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/8fec191187d1e2248eb91a6c0f38030d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5bedc009b736daaa59c809560e6501f2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/c433b07be63f26f50837bf1267ea12e0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/619fec3253a3897385e57806346ec0e4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/a5f62a8e9405a3bfb3f6558c54904437/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/d6fbd0abf687e4cec425f312eadaf59c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/bbc5d618d6d6e88adc832f1ee485731c/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/de9306f3a16b225fd4fbada0fc9a18c9/transformed/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1f124b4729f37753589d783e0fc74b2a/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/b49b8247f620d7b260a58eeb937c5966/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/53a9b29d374c10f61d076d0a303811ee/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/57c00f59b994357187136c085018369a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9db9cac31bb6284f99e65424dc73202/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/b32234c9b7a5abfe0f8707431d14ccc6/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/tomikartemik/.gradle/caches/transforms-3/9d36861b200ca642e3a0d1fb4d01d59b/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/94cbe7c4600a6de779ac0ea6844fa575/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e12ad1a63a1db54d693b3fc60cb39434/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/tomikartemik/.gradle/caches/transforms-3/f91ba3d37d7808ecb44e8c50ba720fab/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/tomikartemik/.gradle/caches/transforms-3/f8036c4292ea09268da18d298a4dc311/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/bf75464c9b07c849b654fcf0a283ad32/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/1c4094d8f8cff711dd91066c667a5a79/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/5bd297b416a1e153790d004ca53cee65/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/0f721d99457247605fdce394ef3dc719/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd5db534d3968ba29780ce565b7c479d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/1a0499294057ff9731e2fd05815637b6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/96d3ae4cc125d216852afc9df770b7a2/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd391dcca365938154167d42f4560058/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/4084666a0c49ce4f2d303a7fc23694c5/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/tomikartemik/.gradle/caches/transforms-3/57f65e8713dda4520d71ba8d6d2f0b33/transformed/installreferrer-2.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5dfd68c35488733c24f738a20885bd93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/1a49964c970d86514116be9d51fe7853/transformed/viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/tomikartemik/.gradle/caches/transforms-3/02905e0cde7de7d41743e5ccfdbdf4ae/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/tomikartemik/.gradle/caches/transforms-3/e95332098c9020c07d5bec10626a7e29/transformed/sqlite-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/4a0bddb08e7185238bd9cfc63251b08d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/bc9b0bfddfd54b5904f8927af8b15402/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/9b0d90a3f134cd6826bc4f6561b23cce/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/57badd8f19ea711473e8200c8ea3fe1c/transformed/gifdecoder-4.15.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/tomikartemik/.gradle/caches/transforms-3/81184bb21386c843ddd7de7ab9682c5b/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/81403791fbaf8bb90612afb010570a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/93d2c35992bd2245eb36b5cebccc2c04/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/6bffb4fc47c4b10dc2645c22639411a1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/f86d8ccc41cdf0935de0f57acddd10bd/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a4164e0d0c837159388f274ab553d228/transformed/firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/277f3125acf8c1e514c0d01ea830e3ce/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/7e035b5ba7c983c6feea0fe609137a55/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/919e25b7967470fe5e86ca6e2ab85c32/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/eecc5331e7ce918ab4ac551e08573e55/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d6b5d1fcf07435864e70824319fb45d8/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/tomikartemik/.gradle/caches/transforms-3/aa622fb228356d16268cf2349f8f3412/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:18:5-79
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:18:5-79
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:25:5-79
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:17:5-67
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:19:5-79
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/tomikartemik/.gradle/caches/transforms-3/f9d94739c057f0d30e9376305334b6cc/transformed/play-services-ads-identifier-18.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/tomikartemik/.gradle/caches/transforms-3/f9d94739c057f0d30e9376305334b6cc/transformed/play-services-ads-identifier-18.0.1/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:9:5-38:19
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:21:5-76
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:21:5-76
+MERGED from [com.google.android.material:material:1.10.0] /Users/tomikartemik/.gradle/caches/transforms-3/05e0befc031c741a67fc02e1ae47eb89/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] /Users/tomikartemik/.gradle/caches/transforms-3/05e0befc031c741a67fc02e1ae47eb89/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/tomikartemik/.gradle/caches/transforms-3/fb9e5eb5f41590ee20f7a9891e479d67/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/tomikartemik/.gradle/caches/transforms-3/fb9e5eb5f41590ee20f7a9891e479d67/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:49:5-134:19
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:49:5-134:19
+MERGED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/4b00d1defba162d75374781e76b635f3/transformed/glide-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/4b00d1defba162d75374781e76b635f3/transformed/glide-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/tomikartemik/.gradle/caches/transforms-3/f9d94739c057f0d30e9376305334b6cc/transformed/play-services-ads-identifier-18.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/tomikartemik/.gradle/caches/transforms-3/f9d94739c057f0d30e9376305334b6cc/transformed/play-services-ads-identifier-18.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/8f15f2dee4c702a5a083755bdefab108/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/8f15f2dee4c702a5a083755bdefab108/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tomikartemik/.gradle/caches/transforms-3/aadc225952687a8e6932b8cd1dce7cd3/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tomikartemik/.gradle/caches/transforms-3/aadc225952687a8e6932b8cd1dce7cd3/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e483af8311042980df0a3696f6a80ef1/transformed/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e483af8311042980df0a3696f6a80ef1/transformed/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/fdbd14a5e25725bb768533e048b131d0/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/fdbd14a5e25725bb768533e048b131d0/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:23:5-29:19
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/tomikartemik/.gradle/caches/transforms-3/57f65e8713dda4520d71ba8d6d2f0b33/transformed/installreferrer-2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/tomikartemik/.gradle/caches/transforms-3/57f65e8713dda4520d71ba8d6d2f0b33/transformed/installreferrer-2.2/AndroidManifest.xml:11:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5dfd68c35488733c24f738a20885bd93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5dfd68c35488733c24f738a20885bd93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/57badd8f19ea711473e8200c8ea3fe1c/transformed/gifdecoder-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/57badd8f19ea711473e8200c8ea3fe1c/transformed/gifdecoder-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/81403791fbaf8bb90612afb010570a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/81403791fbaf8bb90612afb010570a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:21:18-73
+	tools:targetApi
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:16:9-49
+	android:dataExtractionRules
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:10:9-42
+activity#com.recepies.foodrecipesq.presentation.activities.SplashActivity
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:18:9-27:20
+	android:exported
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:19:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:22:9-26:25
+action#android.intent.action.MAIN
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:25:23-70
+activity#com.recepies.foodrecipesq.presentation.activities.RecipeDetailActivity
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:28:9-31:66
+	android:exported
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:31:13-63
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:29:13-73
+activity#com.recepies.foodrecipesq.presentation.activities.MainActivity
+ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:exported
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:34:13-37
+	android:theme
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml:33:13-65
+uses-sdk
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+MERGED from [:dbmodule] /Users/tomikartemik/Downloads/mealplan-main/dbmodule/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:dbmodule] /Users/tomikartemik/Downloads/mealplan-main/dbmodule/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:network] /Users/tomikartemik/Downloads/mealplan-main/network/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:network] /Users/tomikartemik/Downloads/mealplan-main/network/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:recipecore] /Users/tomikartemik/Downloads/mealplan-main/recipecore/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:recipecore] /Users/tomikartemik/Downloads/mealplan-main/recipecore/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/5d92f343386da95fac5d224dd2d8feaa/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/5d92f343386da95fac5d224dd2d8feaa/transformed/databinding-adapters-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/5425796a5b0ea5ba6616c5c67d5367c1/transformed/databinding-ktx-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/5425796a5b0ea5ba6616c5c67d5367c1/transformed/databinding-ktx-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/bd9e026a769db00fb3d5688b1e74c4c0/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/bd9e026a769db00fb3d5688b1e74c4c0/transformed/databinding-runtime-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:6:5-9:54
+MERGED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:6:5-9:54
+MERGED from [androidx.room:room-ktx:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/52314ba136dbd0c4af2a42746db047b9/transformed/room-ktx-2.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/52314ba136dbd0c4af2a42746db047b9/transformed/room-ktx-2.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/84de0eb97727ccfc5b6d5df690864e3d/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/84de0eb97727ccfc5b6d5df690864e3d/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/111822b40a6717082f5ac5f38dc2d4d6/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/111822b40a6717082f5ac5f38dc2d4d6/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/tomikartemik/.gradle/caches/transforms-3/d176122d41dfc90a9d6665e60cb7864d/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/tomikartemik/.gradle/caches/transforms-3/d176122d41dfc90a9d6665e60cb7864d/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/2513095ea0a0af56904edab8da8b4bf9/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/2513095ea0a0af56904edab8da8b4bf9/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/7bfd462fb57d6c447908db4d85c2dc27/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/7bfd462fb57d6c447908db4d85c2dc27/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.10.0] /Users/tomikartemik/.gradle/caches/transforms-3/05e0befc031c741a67fc02e1ae47eb89/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/tomikartemik/.gradle/caches/transforms-3/05e0befc031c741a67fc02e1ae47eb89/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/tomikartemik/.gradle/caches/transforms-3/fb9e5eb5f41590ee20f7a9891e479d67/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/tomikartemik/.gradle/caches/transforms-3/fb9e5eb5f41590ee20f7a9891e479d67/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:4:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/833461764292a12275a52c8def350baf/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/833461764292a12275a52c8def350baf/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/7b73268f11820202dcf96467dbf5b357/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/7b73268f11820202dcf96467dbf5b357/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/929ce2f88a4625959a92c4678b37165f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/929ce2f88a4625959a92c4678b37165f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.9] /Users/tomikartemik/.gradle/caches/transforms-3/5e645e25e91961825bc1e82e6c2e3059/transformed/play-services-auth-base-18.0.9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.9] /Users/tomikartemik/.gradle/caches/transforms-3/5e645e25e91961825bc1e82e6c2e3059/transformed/play-services-auth-base-18.0.9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/4b00d1defba162d75374781e76b635f3/transformed/glide-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/4b00d1defba162d75374781e76b635f3/transformed/glide-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/tomikartemik/.gradle/caches/transforms-3/f9d94739c057f0d30e9376305334b6cc/transformed/play-services-ads-identifier-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/tomikartemik/.gradle/caches/transforms-3/f9d94739c057f0d30e9376305334b6cc/transformed/play-services-ads-identifier-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/8f15f2dee4c702a5a083755bdefab108/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/8f15f2dee4c702a5a083755bdefab108/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/81c0c7ce6e333621cc5e9fbc58944ed2/transformed/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/81c0c7ce6e333621cc5e9fbc58944ed2/transformed/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tomikartemik/.gradle/caches/transforms-3/aadc225952687a8e6932b8cd1dce7cd3/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/tomikartemik/.gradle/caches/transforms-3/aadc225952687a8e6932b8cd1dce7cd3/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e483af8311042980df0a3696f6a80ef1/transformed/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e483af8311042980df0a3696f6a80ef1/transformed/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/fdbd14a5e25725bb768533e048b131d0/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/fdbd14a5e25725bb768533e048b131d0/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c0ee932ff7fd9a6b908ace3e287033b3/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c0ee932ff7fd9a6b908ace3e287033b3/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/ef299b6761756db3687640890fff4b87/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/ef299b6761756db3687640890fff4b87/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/283f2e14dc56670647a4f8a1e130fc8f/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/283f2e14dc56670647a4f8a1e130fc8f/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/tomikartemik/.gradle/caches/transforms-3/17555751c8b71d52b70c729366b2b521/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/tomikartemik/.gradle/caches/transforms-3/17555751c8b71d52b70c729366b2b521/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/tomikartemik/.gradle/caches/transforms-3/b4ddcdbe76ca15c5ede95a87c81e9a42/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/tomikartemik/.gradle/caches/transforms-3/b4ddcdbe76ca15c5ede95a87c81e9a42/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/551837a5bd5a04f9e7d40ea064118618/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/551837a5bd5a04f9e7d40ea064118618/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/02109bfd75bd818da2cfac1c29c15ac7/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/02109bfd75bd818da2cfac1c29c15ac7/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/tomikartemik/.gradle/caches/transforms-3/e8108b9dd834bbbc29372c9c0483d557/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/tomikartemik/.gradle/caches/transforms-3/e8108b9dd834bbbc29372c9c0483d557/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/tomikartemik/.gradle/caches/transforms-3/128a0c36b5eb3f8ee87cf3c6dee4a958/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/tomikartemik/.gradle/caches/transforms-3/128a0c36b5eb3f8ee87cf3c6dee4a958/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/203cbdbca690f47a812e997c0f8b7f7e/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/203cbdbca690f47a812e997c0f8b7f7e/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/ebbe3e9864f086431689017b0db3105c/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/tomikartemik/.gradle/caches/transforms-3/ebbe3e9864f086431689017b0db3105c/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd9bbfbbedcd849a3b0b5f6fadfb67ea/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd9bbfbbedcd849a3b0b5f6fadfb67ea/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/7d590ed60c9bec2aa12c6af1738e8879/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/7d590ed60c9bec2aa12c6af1738e8879/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/8fec191187d1e2248eb91a6c0f38030d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/8fec191187d1e2248eb91a6c0f38030d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5bedc009b736daaa59c809560e6501f2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5bedc009b736daaa59c809560e6501f2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/c433b07be63f26f50837bf1267ea12e0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/c433b07be63f26f50837bf1267ea12e0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/619fec3253a3897385e57806346ec0e4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/619fec3253a3897385e57806346ec0e4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/a5f62a8e9405a3bfb3f6558c54904437/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/a5f62a8e9405a3bfb3f6558c54904437/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/d6fbd0abf687e4cec425f312eadaf59c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/d6fbd0abf687e4cec425f312eadaf59c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/bbc5d618d6d6e88adc832f1ee485731c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/bbc5d618d6d6e88adc832f1ee485731c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/de9306f3a16b225fd4fbada0fc9a18c9/transformed/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/de9306f3a16b225fd4fbada0fc9a18c9/transformed/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1f124b4729f37753589d783e0fc74b2a/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1f124b4729f37753589d783e0fc74b2a/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/b49b8247f620d7b260a58eeb937c5966/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/b49b8247f620d7b260a58eeb937c5966/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/53a9b29d374c10f61d076d0a303811ee/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/tomikartemik/.gradle/caches/transforms-3/53a9b29d374c10f61d076d0a303811ee/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/57c00f59b994357187136c085018369a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/57c00f59b994357187136c085018369a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9db9cac31bb6284f99e65424dc73202/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9db9cac31bb6284f99e65424dc73202/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/b32234c9b7a5abfe0f8707431d14ccc6/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/b32234c9b7a5abfe0f8707431d14ccc6/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] /Users/tomikartemik/.gradle/caches/transforms-3/9d36861b200ca642e3a0d1fb4d01d59b/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/tomikartemik/.gradle/caches/transforms-3/9d36861b200ca642e3a0d1fb4d01d59b/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/94cbe7c4600a6de779ac0ea6844fa575/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/94cbe7c4600a6de779ac0ea6844fa575/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e12ad1a63a1db54d693b3fc60cb39434/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/e12ad1a63a1db54d693b3fc60cb39434/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/tomikartemik/.gradle/caches/transforms-3/f91ba3d37d7808ecb44e8c50ba720fab/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/tomikartemik/.gradle/caches/transforms-3/f91ba3d37d7808ecb44e8c50ba720fab/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/tomikartemik/.gradle/caches/transforms-3/f8036c4292ea09268da18d298a4dc311/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/tomikartemik/.gradle/caches/transforms-3/f8036c4292ea09268da18d298a4dc311/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/bf75464c9b07c849b654fcf0a283ad32/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/bf75464c9b07c849b654fcf0a283ad32/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/1c4094d8f8cff711dd91066c667a5a79/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/1c4094d8f8cff711dd91066c667a5a79/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/5bd297b416a1e153790d004ca53cee65/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/5bd297b416a1e153790d004ca53cee65/transformed/lifecycle-service-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/0f721d99457247605fdce394ef3dc719/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/0f721d99457247605fdce394ef3dc719/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd5db534d3968ba29780ce565b7c479d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd5db534d3968ba29780ce565b7c479d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/1a0499294057ff9731e2fd05815637b6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/1a0499294057ff9731e2fd05815637b6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/96d3ae4cc125d216852afc9df770b7a2/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/96d3ae4cc125d216852afc9df770b7a2/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd391dcca365938154167d42f4560058/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/fd391dcca365938154167d42f4560058/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/4084666a0c49ce4f2d303a7fc23694c5/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/4084666a0c49ce4f2d303a7fc23694c5/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/tomikartemik/.gradle/caches/transforms-3/57f65e8713dda4520d71ba8d6d2f0b33/transformed/installreferrer-2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/tomikartemik/.gradle/caches/transforms-3/57f65e8713dda4520d71ba8d6d2f0b33/transformed/installreferrer-2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5dfd68c35488733c24f738a20885bd93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/5dfd68c35488733c24f738a20885bd93/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/1a49964c970d86514116be9d51fe7853/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/tomikartemik/.gradle/caches/transforms-3/1a49964c970d86514116be9d51fe7853/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/tomikartemik/.gradle/caches/transforms-3/02905e0cde7de7d41743e5ccfdbdf4ae/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/tomikartemik/.gradle/caches/transforms-3/02905e0cde7de7d41743e5ccfdbdf4ae/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/tomikartemik/.gradle/caches/transforms-3/e95332098c9020c07d5bec10626a7e29/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/tomikartemik/.gradle/caches/transforms-3/e95332098c9020c07d5bec10626a7e29/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/4a0bddb08e7185238bd9cfc63251b08d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/4a0bddb08e7185238bd9cfc63251b08d/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/bc9b0bfddfd54b5904f8927af8b15402/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/bc9b0bfddfd54b5904f8927af8b15402/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/9b0d90a3f134cd6826bc4f6561b23cce/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/9b0d90a3f134cd6826bc4f6561b23cce/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/57badd8f19ea711473e8200c8ea3fe1c/transformed/gifdecoder-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/tomikartemik/.gradle/caches/transforms-3/57badd8f19ea711473e8200c8ea3fe1c/transformed/gifdecoder-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/tomikartemik/.gradle/caches/transforms-3/81184bb21386c843ddd7de7ab9682c5b/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/tomikartemik/.gradle/caches/transforms-3/81184bb21386c843ddd7de7ab9682c5b/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/81403791fbaf8bb90612afb010570a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/81403791fbaf8bb90612afb010570a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/93d2c35992bd2245eb36b5cebccc2c04/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/93d2c35992bd2245eb36b5cebccc2c04/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/6bffb4fc47c4b10dc2645c22639411a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/6bffb4fc47c4b10dc2645c22639411a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/f86d8ccc41cdf0935de0f57acddd10bd/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/f86d8ccc41cdf0935de0f57acddd10bd/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a4164e0d0c837159388f274ab553d228/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a4164e0d0c837159388f274ab553d228/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/277f3125acf8c1e514c0d01ea830e3ce/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/277f3125acf8c1e514c0d01ea830e3ce/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/7e035b5ba7c983c6feea0fe609137a55/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/7e035b5ba7c983c6feea0fe609137a55/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/919e25b7967470fe5e86ca6e2ab85c32/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/919e25b7967470fe5e86ca6e2ab85c32/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/eecc5331e7ce918ab4ac551e08573e55/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/eecc5331e7ce918ab4ac551e08573e55/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d6b5d1fcf07435864e70824319fb45d8/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d6b5d1fcf07435864e70824319fb45d8/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/tomikartemik/.gradle/caches/transforms-3/aa622fb228356d16268cf2349f8f3412/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/tomikartemik/.gradle/caches/transforms-3/aa622fb228356d16268cf2349f8f3412/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:9:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomikartemik/Downloads/mealplan-main/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:11:5-15:15
+intent#action:name:com.appsflyer.referrer.INSTALL_PROVIDER
+ADDED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:12:9-14:18
+action#com.appsflyer.referrer.INSTALL_PROVIDER
+ADDED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:13:13-78
+	android:name
+		ADDED from [com.appsflyer:af-android-sdk:6.11.0] /Users/tomikartemik/.gradle/caches/transforms-3/27ef1af5608d53f1b53721cf339172d5/transformed/af-android-sdk-6.11.0/AndroidManifest.xml:13:21-75
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:8:9-63
+permission#com.recepies.foodrecipesq.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:11:22-76
+uses-permission#com.recepies.foodrecipesq.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:16:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:18:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/96ec7a6acbf00aa637ce22d4d6d4875b/transformed/play-services-cloud-messaging-17.0.0/AndroidManifest.xml:9:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:30:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:30:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:47:22-86
+receiver#com.onesignal.FCMBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:50:9-61:20
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:52:13-36
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:53:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:51:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:56:13-60:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:56:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.recepies.foodrecipesq
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:56:13-60:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:56:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:57:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:57:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:59:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:59:27-58
+category#com.recepies.foodrecipesq
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:59:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:59:27-58
+service#com.onesignal.HmsMessageServiceOneSignal
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:63:9-69:19
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:64:13-68
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:66:13-68:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:67:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:67:25-78
+activity#com.onesignal.NotificationOpenedActivityHMS
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:71:9-79:20
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:74:13-37
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:73:13-36
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:75:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:72:13-71
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:76:13-78:29
+action#android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:77:25-66
+service#com.onesignal.FCMIntentService
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:81:9-83:40
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:82:13-58
+service#com.onesignal.FCMIntentJobService
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:84:9-87:72
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:86:13-37
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:87:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:85:13-61
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:88:9-91:43
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:90:13-37
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:91:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:89:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:92:9-95:72
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:94:13-37
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:95:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:93:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:97:9-100:75
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:99:13-37
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:100:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:98:13-61
+receiver#com.onesignal.NotificationDismissReceiver
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:102:9-104:39
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:104:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:103:13-69
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:105:9-112:20
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:107:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:106:13-56
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:108:13-111:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:109:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:109:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:110:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:110:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:113:9-119:20
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:115:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:114:13-57
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:116:13-118:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:117:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:117:25-81
+activity#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:121:9-127:75
+	android:excludeFromRecents
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:123:13-46
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:125:13-37
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:124:13-36
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:127:13-72
+	android:taskAffinity
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:126:13-36
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:122:13-68
+activity#com.onesignal.NotificationOpenedReceiverAndroid22AndOlder
+ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:128:9-133:75
+	android:excludeFromRecents
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:130:13-46
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:132:13-37
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:131:13-36
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:133:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.8.6] /Users/tomikartemik/.gradle/caches/transforms-3/40a7930e0902a38f8f19b0908f780913/transformed/OneSignal-4.8.6/AndroidManifest.xml:129:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/ca195851dd86cf7b37c7323f2277d2fb/transformed/play-services-base-18.2.0/AndroidManifest.xml:20:19-85
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:29:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:32:13-34:29
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:42:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:45:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:46:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:46:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:50:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/48853f972c6c59a76e2a8105d8bbd52b/transformed/firebase-messaging-23.0.0/AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/189e6e7d3df309cb0982bedacf82be5a/transformed/firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/2487d2cc9c5258223dc68be6675ff1e4/transformed/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d9eab6ea58065bc19532b67f184fb5e5/transformed/firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/1e0b12dcbc898182305ace835723df8e/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/81403791fbaf8bb90612afb010570a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tomikartemik/.gradle/caches/transforms-3/81403791fbaf8bb90612afb010570a07/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tomikartemik/.gradle/caches/transforms-3/4ba3ae22b46ceecbc4fb16dbc9d9e621/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/tomikartemik/.gradle/caches/transforms-3/fa7df69da87f9e72686dde784c773acf/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:25-85
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/d537548cb474ca1614d98a53b516d2fa/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+permission#com.recepies.foodrecipesq.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+uses-permission#com.recepies.foodrecipesq.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/tomikartemik/.gradle/caches/transforms-3/4edadf7a26829afcc08e0f9fef16fe61/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/tomikartemik/.gradle/caches/transforms-3/90af06819c68e28d0f0ea53c73112479/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.1] /Users/tomikartemik/.gradle/caches/transforms-3/0a73064270730b4c3e7a6892568faf18/transformed/room-runtime-2.5.1/AndroidManifest.xml:25:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:2.2] /Users/tomikartemik/.gradle/caches/transforms-3/57f65e8713dda4520d71ba8d6d2f0b33/transformed/installreferrer-2.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:2.2] /Users/tomikartemik/.gradle/caches/transforms-3/57f65e8713dda4520d71ba8d6d2f0b33/transformed/installreferrer-2.2/AndroidManifest.xml:9:22-107
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/tomikartemik/.gradle/caches/transforms-3/0a52f6e50b3c479fdc4d92104e53f8b9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/c9648de1a105abe5eda1388668b0eda4/transformed/transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/tomikartemik/.gradle/caches/transforms-3/a7f5cdb703b65466f60d77de86c29737/transformed/transport-runtime-3.0.0/AndroidManifest.xml:33:13-132

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/user_pref_item_layout.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/user_pref_item_layout.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/no_result_ui.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/no_result_ui.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/fragment_food_recipe.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/fragment_food_recipe.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/recipe_ingredient_layout.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/recipe_ingredient_layout.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/recipe_overview_content_item.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/recipe_overview_content_item.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/fragment_favorite_recipe.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/fragment_favorite_recipe.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/loader_view_layout.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/loader_view_layout.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/recipe_overview_fragment.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/recipe_overview_fragment.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/recipe_item.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/recipe_item.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/activity_recipe_detail.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/recipe_instruction_layout.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/recipe_instruction_layout.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/activity_main.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/recipe_filter_layout.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/recipe_filter_layout.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/recipe_instruction_item.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/recipe_instruction_item.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-mergeDebugResources-65:/layout/fragment_joke_recipe.xml",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/fragment_joke_recipe.xml"
+    }
+]

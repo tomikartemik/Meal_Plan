@@ -1,0 +1,3 @@
+com.recepies.foodrecipesq.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

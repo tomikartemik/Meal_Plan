@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/menu_recipe_menu.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/menu/recipe_menu.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_top_left_right_18dp_rounded_corner.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/top_left_right_18dp_rounded_corner.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-merged_res-66:/layout_activity_splash.xml.flat",
+        "source": "com.recepies.foodrecipesq.app-main-68:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_sad.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_sad.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_flower_bg.jpg.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/flower_bg.jpg"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_emoji_joke_icon.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_emoji_joke_icon.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_ingredient_layout.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_ingredient_layout.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_loader_view_bg.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/loader_view_bg.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_close.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_plate.jpg.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/plate.jpg"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_fav_fill_icon.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_fav_fill_icon.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/navigation_food_recipe_nav_graph.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/navigation/food_recipe_nav_graph.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_time_icon.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_time_icon.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_loader_view_layout.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/loader_view_layout.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_activity_recipe_detail.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "com.recepies.foodrecipesq.app-merged_res-66:/drawable_splash_back.jpg.flat",
+        "source": "com.recepies.foodrecipesq.app-main-68:/drawable/splash_back.jpg"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_fav_icon.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_fav_icon.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_instruction_layout.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_instruction_layout.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_filter_layout.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_filter_layout.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_dining.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_dining.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_overview_content_item.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_overview_content_item.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_activity_main.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_no_result_ui.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/no_result_ui.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_delete.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_overview_fragment.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_overview_fragment.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_instruction_item.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_instruction_item.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_circle_bg_d8d8d8.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/circle_bg_d8d8d8.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_meal_type_chip_item.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/meal_type_chip_item.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_bottom_nav_menu_selector.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/bottom_nav_menu_selector.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_veg.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_veg.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_menu_icon.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_menu_icon.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/menu_favorite_contexual_menu.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/menu/favorite_contexual_menu.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_user_pref_item_layout.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/user_pref_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_default_recipe.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_default_recipe.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_check.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_item.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_item.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_recipe_ingredient_item_layout.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/recipe_ingredient_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_fragment_food_recipe.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/fragment_food_recipe.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_fragment_favorite_recipe.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/fragment_favorite_recipe.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_fragment_joke_recipe.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/fragment_joke_recipe.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_search.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/drawable_ic_restaurant_icon.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/drawable/ic_restaurant_icon.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/layout_activity_splash.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-merged_res-66:/xml_backup_rules.xml.flat",
+        "source": "/Users/tomikartemik/.gradle/daemon/7.5/com.recepies.foodrecipesq.app-main-68:/xml/backup_rules.xml"
+    }
+]

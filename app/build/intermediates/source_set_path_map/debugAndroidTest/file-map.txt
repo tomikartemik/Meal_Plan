@@ -1,0 +1,7 @@
+com.recepies.foodrecipesq.test.app-core-1.5.0-0 /Users/tomikartemik/.gradle/caches/transforms-3/0eb8ae45774719bde4856e51172007de/transformed/core-1.5.0/res
+com.recepies.foodrecipesq.test.app-annotation-experimental-1.3.0-1 /Users/tomikartemik/.gradle/caches/transforms-3/4a0bddb08e7185238bd9cfc63251b08d/transformed/annotation-experimental-1.3.0/res
+com.recepies.foodrecipesq.test.app-androidTest-2 /Users/tomikartemik/Downloads/mealplan-main/app/build/generated/res/resValues/androidTest/debug
+com.recepies.foodrecipesq.test.app-androidTest-3 /Users/tomikartemik/Downloads/mealplan-main/app/build/generated/res/rs/androidTest/debug
+com.recepies.foodrecipesq.test.app-mergeDebugAndroidTestResources-4 /Users/tomikartemik/Downloads/mealplan-main/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.recepies.foodrecipesq.test.app-mergeDebugAndroidTestResources-5 /Users/tomikartemik/Downloads/mealplan-main/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.recepies.foodrecipesq.test.app-merged_res-6 /Users/tomikartemik/Downloads/mealplan-main/app/build/intermediates/merged_res/debugAndroidTest

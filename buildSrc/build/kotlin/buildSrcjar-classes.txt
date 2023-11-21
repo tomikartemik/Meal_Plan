@@ -1,0 +1,1 @@
+/Users/tomikartemik/Downloads/mealplan-main/buildSrc/build/classes/kotlin/main/Dependencies$Versions.class:/Users/tomikartemik/Downloads/mealplan-main/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/tomikartemik/Downloads/mealplan-main/buildSrc/build/classes/kotlin/main/ProjectLevelDependencies.class
